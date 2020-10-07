@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Sean Metzgar's GitHub stats](https://seanmetzgar-readme-stats.vercel.app/api?username=seanmetzgar&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
+
 [![Sean Metzgar's WakaTime stats](https://seanmetzgar-readme-stats.vercel.app/api/wakatime?username=seanmetzgar&theme=dracula)](https://wakatime.com/@seanmetzgar)
 
 <!--
