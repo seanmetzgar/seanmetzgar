@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sean (he/him), I'm a Web Conductor... wait, no... Web Engineer! I really enjoy working in TypeScript/Javascript and PHP.
+My name is Sean (he/him), I'm a Web Conductor... wait, no... Web Engineer! I really enjoy working in TypeScript/Javascript and PHP, Star Wars, Podcasts, and all types of Table Top Games!
 
 🔭 I’m currently working on the [Advent of Code: 2022](https://adventofcode.com/2022)... you can find my repository pinned below!
 
